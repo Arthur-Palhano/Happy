@@ -7,7 +7,7 @@
 </h2>
 
 <h1 align="center">
-  <img src="./.github/assets/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
+  <img src="https://repository-images.githubusercontent.com/303463633/40305f00-0cc3-11eb-9764-12e89d20f19f" alt="Logo da Proffy" width="1000px" />
 </h1>
 
 
